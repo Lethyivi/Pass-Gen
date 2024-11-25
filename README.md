@@ -1,2 +1,4 @@
-# Pass-Gen
-Script generador de password
+### GENERADOR DE PASSWORD
+### CREADO POR LYZETH 
+
+# BIENVENID@ GRACIAS POR APOYAR EL PROYECTO
